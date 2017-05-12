@@ -1,0 +1,9 @@
+Look here.
+This is what you will do.
+Pull from the required branch. 
+Modify code.
+Push to the SAME branch.
+Do you think it's ready?
+Make a pull request to Master branch.
+DO NOT PUSH DIRECTLY TO MASTER!
+Push to either dev or hotfix branches.
